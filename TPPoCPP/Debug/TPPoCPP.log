@@ -1,0 +1,3 @@
+﻿  Eleve.cpp
+C:\Users\speci\source\repos\TPPoCPP\TPPoCPP\Eleve.cpp(20,25): warning C4018: '>' : incompatibilité signed/unsigned
+  TPPoCPP.vcxproj -> C:\Users\speci\source\repos\TPPoCPP\Debug\GestionEcole.exe
