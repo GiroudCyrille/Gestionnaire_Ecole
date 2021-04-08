@@ -10,7 +10,6 @@ private:
 	double salaire;
 
 public:
-	Professeur() {};
 	Professeur(std::string nom, std::string prenom, int age, double paye);
 	~Professeur() {};
 

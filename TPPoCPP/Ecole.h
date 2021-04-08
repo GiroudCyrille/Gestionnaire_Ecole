@@ -18,7 +18,6 @@ private:
 	vector<Eleve> eleves;
 
 public:
-	Ecole() {};
 	Ecole(std::string nom, std::string adress, double budget);
 	~Ecole() {};
 

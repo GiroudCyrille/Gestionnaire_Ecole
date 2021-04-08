@@ -1,3 +1,9 @@
-﻿  Eleve.cpp
-C:\Users\speci\source\repos\TPPoCPP\TPPoCPP\Eleve.cpp(20,25): warning C4018: '>' : incompatibilité signed/unsigned
-  TPPoCPP.vcxproj -> C:\Users\speci\source\repos\TPPoCPP\Debug\GestionEcole.exe
+﻿  Ecole.cpp
+  Eleve.cpp
+C:\Users\speci\Documents\GitHub\Gestionnaire_Ecole\TPPoCPP\Eleve.cpp(20,25): warning C4018: '>' : incompatibilité signed/unsigned
+  Personne.cpp
+  Professeur.cpp
+  GestionEcole.cpp
+C:\Users\speci\Documents\GitHub\Gestionnaire_Ecole\TPPoCPP\GestionEcole.cpp(12,13): warning C4930: 'Professeur prof4(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
+  Génération de code en cours...
+  TPPoCPP.vcxproj -> C:\Users\speci\Documents\GitHub\Gestionnaire_Ecole\Debug\GestionEcole.exe

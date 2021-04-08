@@ -8,7 +8,6 @@ private:
 	int age;
 
 public:
-	Personne() {};
 	Personne(std::string name, std::string prename, int ag);
 	~Personne() { };
 

@@ -9,7 +9,6 @@ private:
 	double moyennes[5];
 
 public:
-	Eleve() {};
 	Eleve(std::string nom, std::string prenom, int age);
 	~Eleve() {};
 
